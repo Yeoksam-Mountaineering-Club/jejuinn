@@ -103,7 +103,7 @@
 
 ---
 
-## Back
+### Back
 
 ```
 Backend
@@ -143,6 +143,58 @@ Backend
 └─util
     └─geotrans
 ```
+### Front
+```
+Frontend
+├─api
+├─assets
+├─components
+│  ├─articleCreateComponent
+│  ├─boxLoginSignup
+│  ├─commentComponent
+│  ├─findPassword
+│  ├─guestHouseDetail
+│  ├─guestHouseList
+│  ├─imageSlider
+│  ├─loginForm
+│  ├─main
+│  ├─mapApi
+│  ├─myGuestHouseCreate
+│  ├─myPage
+│  │  ├─main
+│  │  ├─myGuestHouse
+│  │  └─myResume
+│  ├─naverAuth
+│  ├─popupPostCode
+│  ├─sendSMS
+│  ├─signUp
+│  ├─speedDial
+│  ├─staffPickComponent
+│  ├─staffPickCreateComponent
+│  ├─staffPickDetailComponent
+│  ├─staffPickUpdateComponent
+│  ├─videoInterview
+│  ├─whiteBox
+│  └─work
+├─hooks
+├─routes
+│  ├─guestHouse
+│  ├─guestHouseCreate
+│  ├─guestHouseDetail
+│  ├─logIn
+│  ├─main
+│  ├─myPage
+│  ├─naverAuth
+│  ├─signUp
+│  ├─staffPick
+│  ├─staffPickCreate
+│  ├─staffPickDetail
+│  ├─staffPickUpdate
+│  ├─videoInterview
+│  └─work
+└─store
+```
+
 
 ## ✔ 협업 툴
 
@@ -185,4 +237,12 @@ Backend
 ---
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55774589/219984009-d994c6df-38df-4cbf-99fa-1fc093424eba.PNG" />
+</p>
+
+## ✔ 프로젝트 결과물
+### 🧡 JEJUINN - 서비스 화면
+#### 메인화면
+- 홈페이지 설명
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55774589/222451140-c11a5a80-ace1-49ab-b9b3-60b9fe8d3a2a.gif"/>
 </p>
