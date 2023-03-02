@@ -246,3 +246,70 @@ Frontend
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55774589/222451140-c11a5a80-ace1-49ab-b9b3-60b9fe8d3a2a.gif"/>
 </p>
+
+#### 게스트하우스
+- 게스트 하우스 목록
+![게하목록](https://user-images.githubusercontent.com/55774589/222455564-186b5352-7876-4864-bb6b-dcb63f516b1f.gif)
+- 게스트 하우스 검색
+![게하 검색](https://user-images.githubusercontent.com/55774589/222455559-3d1948f0-89f3-4faf-a030-921cbcab8bcb.gif)
+- 게스트 하우스 상세 정보
+![게하 상세](https://user-images.githubusercontent.com/55774589/222455549-6dbd9711-097e-4b7b-bb88-ecac737e5249.gif)
+- 새로운 게스트 하우스 등록
+![게하 작성](https://user-images.githubusercontent.com/55774589/222455737-311eba17-7c4c-4b67-b3b7-7a3ba7472246.gif)
+
+
+
+
+
+#### 놀고먹기 (주변 관광지)
+- 새로운 명소 등록
+![staffPickSpotRegister](https://user-images.githubusercontent.com/55774589/222455044-70cd173c-8f00-47f1-b41e-667290d96341.gif)
+- 리뷰 작성
+![staffPickCreateReview](https://user-images.githubusercontent.com/55774589/222455056-dbac6078-0279-40dc-8269-fe7ff52c4035.gif)
+- 리뷰 수정
+![staffPickUpdateReview](https://user-images.githubusercontent.com/55774589/222455060-182c0681-e19f-47e0-be99-071253998ec1.gif)
+- 리뷰 삭제
+![DeleteReview](https://user-images.githubusercontent.com/55774589/222455065-2b9971f5-8a4a-4956-89c7-2f7ff83d8907.gif)
+- 리뷰 댓글 & 좋아요
+![staffPickCommentLike](https://user-images.githubusercontent.com/55774589/222455070-8a32628f-3cf3-4854-8cb5-d3c31f7abdc5.gif)
+
+
+#### 일하기
+- 직무 추가
+![직무 추가](https://user-images.githubusercontent.com/55774589/222454873-5e685310-1f42-43b0-b658-807b3ea3a283.gif)
+- 일하기 살세
+![일하기 상세](https://user-images.githubusercontent.com/55774589/222454879-772e674a-6b0a-42b2-b99f-455dae9c70b7.gif)
+- 필터를 통한 일하기 검색
+![일하기 필터](https://user-images.githubusercontent.com/55774589/222454885-f7b8066d-41cc-4c50-8d0a-12bc936cf05e.gif)
+
+
+
+#### 마이페이지
+- 좋아요 한 관광지 보기
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55774589/222454125-8fa94cd9-797b-42f7-af99-2192baf9b0a2.gif"/>
+</p>
+
+- 지원서 작성
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55774589/222454094-37d7c2ed-41cf-4120-8043-cc10d0b2e268.gif"/>
+</p>
+
+- 지원서 수정
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55774589/222454346-99415235-e005-434d-8c07-638c43cd2fb1.gif"/>
+</p>
+
+- 자동추천 on/off
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55774589/222453550-8105dfe8-cda6-4910-a5c2-eaab484fa569.gif"/>
+</p>
+
+- 추천 직원 리스트 보기
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55774589/222452475-5f06e39d-8ada-4595-b453-dc01d47f1e3e.gif"/>
+</p>
+- 지원자에게 안내 문자 발송
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55774589/222452457-17620602-4572-4b59-9d5e-a3ada674a39f.gif"/>
+</p>
